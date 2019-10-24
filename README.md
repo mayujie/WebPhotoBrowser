@@ -11,3 +11,4 @@ res|----> layout --> content_main.xml<br />
 java|----> MainActivity.java <br />
 
 ## Preview of ImageViewer
+![webPhoto](https://user-images.githubusercontent.com/19303874/67488118-87b37a80-f66f-11e9-8031-ac850d553918.PNG)
